@@ -1,7 +1,7 @@
 ## A modern landing page built with Next.js and One Entry CMS
 
 ## How-to guide
-[Tutorial]()
+[Tutorial](https://dev.to/arshadayvid/building-a-modern-landing-page-with-nextjs-and-one-entry-headless-cms-34ne)
 
 ## Demo
 [Live URL](https://oneentry.vercel.app/)
